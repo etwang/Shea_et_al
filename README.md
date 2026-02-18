@@ -1,4 +1,4 @@
-#This repository contains code for Shea et al.
+#This repository contains code for Shea et al. All methods are in preprocess.py and splicing_ode_model.py.
 #If running from this directory, run these commands:
 #
 #Pre-processing events:
